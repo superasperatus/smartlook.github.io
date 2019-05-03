@@ -6,7 +6,7 @@ description: "Use in case you have on your site our API code which can Identify 
 
 ## What you can track
 
-**Custom events** information (custom user actions) will be displayed directly in recordings. Create your own events and we will track them for you. Events allow you to track user interactions other than clicks, page views (URL) and text inputs.  With custom events you can get creative and track pretty much everything you want. 
+**Custom events** information (custom user actions) will be displayed directly in recordings. Create your own events and we will track them for you. Events allow you to track user interactions other than clicks, page views (URL) and text inputs.  With custom events you can get creative and track pretty much everything you want.
 
 Code you need to insert in your site has a following format in **JavaScript**.
 
@@ -31,7 +31,11 @@ You can configure an event that will fire when your user sees certain pop-up win
 </script>
 ```
 
-Parameter `properties` is a variable. In case you need to display only a specific information about your user there is no need to use any other parameters in your custom event.
+## Custom Properties
+
+In the example above, the parameter `properties` is a variable which can be used in case you need to send a specific information about your users to Smartlook. When `properties` is passed there no need to use any other parameters in your custom event.
+
+In Smartlook, the `properties` variable can be used as a filter (further saved as a Segment) and as a dimension for events breakdown.
 
 Have a look at this example where user reached app preset limit.
 

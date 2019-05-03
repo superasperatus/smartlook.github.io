@@ -4,23 +4,23 @@
 docs_list_title: Web
 web:
 
-- title: Identify visitor
-  subtitle: Display detailed visitor information in dashboard.
+- title: Identify visitors
+  subtitle: Display detailed visitors information in Smartlook. #dashboard now conflicts with our current The Dashboard (the one with tiles)
   url: /docs/web/identify-visitor/
 - title: GDPR
   subtitle: Record user information of EU visitors.
   url: /docs/web/gdpr/
 - title: Sensitive data protection
-  subtitle: Do not record sensitive data. Mask forms and inputs.
+  subtitle: Disable recordings sensitive data. Masking forms and inputs.
   url: /docs/web/sensitive-data-protection/
-- title: Custom events
+- title: Custom events & properties
   subtitle: Create your own specific events for tracking.
   url: /docs/web/custom-events/
 - title: Custom click props
   subtitle: Log your own specific data for click tracking.
   url: /docs/web/custom-click-props/
 - title: Recording information
-  subtitle: Get recording information such as URL.
+  subtitle: Get recording information such as the URL.
   url: /docs/web/recording-information/
 
 ## SDK
