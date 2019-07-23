@@ -9,7 +9,6 @@ description: "This SDK offers several options to developers and/or companies."
 * Replay session recordings in our web player
 * Capture all of the user interactions and find ones you can about in the Events manager
 * Set your own custom analytics event and do complex funnels/queries in the dashboard
-* Collect referrer value and source of installation per visitor
 
 ## Reporting issues and changelog
 
@@ -23,7 +22,7 @@ When debugging your app with Smartlook, you will encounter a **Main Thread Check
 
 ## WiFi / mobile connection / offline
 
-Currently we are uploading sessions **only of WiFi** connection. If application is on mobile connection or offline we are storing sessions locally and will upload them as soon as application has WiFi conection.
+Currently we are uploading sessions **only on WiFi** connection. If application is on mobile connection or offline we store the sessions locally and upload them as soon as the application has WiFi conection.
 
 ## Installation
 
@@ -187,7 +186,7 @@ protocol Smartlook.NotSensitiveData
 
 #### Whitelisting
 
-As noted above, some classes are **blacklisted by default**. To record only some of their instances, you can whitelist:
+As noted above, some classes are **blacklisted by default**. To record some of their instances, you can whitelist them:
 
 ```swift
 self.emailLabel.slSensitive = false                               // whitelists individual instance      
@@ -202,7 +201,7 @@ self.emailLabel.slSensitive = NO;                                    // whitelis
 [Smartlook registerWhitelistedObject:@protocol(SensitiveProtocol)];  // whitelists all classes that conform the protocol
 ```
 
-Also here, objects can be removed from the whitelist by calling the respective `unregisterWhitelisted(object:)` or toggling the `slSensitive` property.
+Also here, objects can be removed from the whitelist by calling the respective `unregisterWhitelisted(object:)` or by toggling the `slSensitive` property.
 
 #### Sensitive mode
 
@@ -267,7 +266,7 @@ Smartlook.clearSessionProperties() // removes all session properties
 [Smartlook clearSessionProperties];  // removes all session properties
 ``` 
 
-If you do want _locking_ a session property value to protect it against accidental further changes. Immutable property value cannot be changes once it is set (it can be removes and set again, though).
+If you do want _locking_ a session property value to protect it against accidental further changes. Immutable property value cannot be changed once it is set (it can be removes and set again, though).
 
 ```swift
 Smartlook.setSessionProperty(value: "immutable-value", forName: "my-property", options: .immutable)
@@ -290,7 +289,7 @@ You can also add your own custom events.
 
 #### Custom events
 
-Custom events are identified by an name, and can also have additional optional properties. The additional properties can be used in **funnels** and any other **filtering**.
+Custom events are identified by a name, and can also have additional optional properties. The additional properties can be used in **funnels** and any other **filtering**.
 
 ```swift
 Smartlook.trackCustomEvent(name: String, props: [String : String]?)
@@ -329,7 +328,7 @@ Smartlook.clearGlobalEventProperties()
 [Smartlook clearGlobalEventProperties];
 ```
 
-Global event properties can be set `immutable` the same way session properties. Immutable property value cannot be changes once it is set (it can be removes and set again, though).
+Global event properties can be set `immutable` the same way session properties. Immutable property value cannot be changed once it is set (it can be removes and set again, though).
 
 ```swift
 Smartlook.setGlobalEventProperty(value: "immutable-value", forName: "my-property", options: .immutable)
@@ -353,7 +352,7 @@ this URL can be access by everyone with the access rights to the dashboard.
 
 ### Crashlytics
 
-If you use Crashlytics in your project, Smartlook can attach the current dashboard session URL to Crahlytics reports. **This is not by default**, and must be enabled by the `.enableCrashlytics`  option when setting up Smartlook. See [Run Smartlook with options](#run-smartlook-with-options).
+If you use Crashlytics in your project, Smartlook can attach the current dashboard session URL to Crahlytics reports. **Crashlytics integration in not enabled by default**, and must be turned on by the `.enableCrashlytics`  option when setting up Smartlook. See [Run Smartlook with options](#run-smartlook-with-options).
 
 ## Deprecated API
 
