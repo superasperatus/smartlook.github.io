@@ -1,10 +1,10 @@
 ---
-title: "SDK Installation Guide"
+title: "Smartlook SDK Installation Guide"
 subtitle: "A handy guide to find the best installation details for your project."
 description: "Installation guide for Smartlook SDK.."
 ---
 
-## What you can do
+## Smartlook SDK Installation Guide
 
 * Replay session recordings in our web player
 * Capture all of the user interactions and find ones you can about in the Events manager
