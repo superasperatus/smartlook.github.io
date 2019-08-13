@@ -6,6 +6,8 @@ description: "Installation guide for Smartlook SDK.."
 
 ## Smartlook SDK Installation Guide
 
+<p style="text-align: center;">Smartlook SDK Installation Guide</p>
+
 * Replay session recordings in our web player
 * Capture all of the user interactions and find ones you can about in the Events manager
 * Set your own custom analytics event and do complex funnels/queries in the dashboard
