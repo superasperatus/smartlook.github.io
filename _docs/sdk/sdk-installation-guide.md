@@ -12,7 +12,7 @@ To start please select your mobile OS:
 
 |    Android   | iOS |   
 |:--------------:|:--------:|
-|  [![Android Icon](https://img.icons8.com/color/96/000000/android-os.png)](./sdk/sdk-installation-guide.md#supported-android-frameworks) | ![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png) | 
+|  [![Android Icon](https://img.icons8.com/color/96/000000/android-os.png)](../sdk/sdk-installation-guide.md#supported-android-frameworks) | [![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png)](../sdk/sdk-installation-guide.md#suported-ios-frameworks) | 
 |  [Supported Android Frameworks](../sdk/sdk-installation-guide.md#supported-android-frameworks) | [Supported iOS Frameworks](../sdk/sdk-installation-guide.md#suported-ios-frameworks) | 
 
 For general Smartlook SDK documentation & features overview: 
