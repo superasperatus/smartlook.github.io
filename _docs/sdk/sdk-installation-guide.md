@@ -46,7 +46,7 @@ ___
 |  [Android Native Installation](https://smartlook.github.io/docs/sdk/android/#installation) 
 
 
-## Supported Android Frameworks 
+## Supported Frameworks for Android
 
 For installation details for Android choose a framework: 
 
@@ -66,7 +66,7 @@ ___
 | [![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png)](https://smartlook.github.io/docs/sdk/ios/#installation)
 | [iOS Native Installation](https://smartlook.github.io/docs/sdk/ios/#installation) 
 
-## Supported iOS Frameworks
+## Supported Frameworks for iOS
 
 |    React Native   | Unity | Cocos (Coming Soon for iOS) |   
 |:--------------:|:--------:|:--------:|
