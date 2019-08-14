@@ -19,18 +19,18 @@ For general Smartlook SDK documentation & features overview:
 * Android, [visit here](https://smartlook.github.io/docs/sdk/android/#android)
 * iOS, [visit here](https://smartlook.github.io/docs/sdk/ios/#ios)
 
-## Changelog
+### Changelog
 
 - [iOS SDK changelog](https://github.com/smartlook/smartlook-ios-sdk)
 - [Android SDK changelog](https://github.com/smartlook/smartlook-android-sdk)
 
-## Reporting issues
+### Reporting issues
 
 Please report all issues to
 - [iOS SDK issue tracker](https://github.com/smartlook/smartlook-ios-sdk/issues)
 - [Android SDK issue tracker](https://github.com/smartlook/smartlook-android-sdk/issues)
 
-## Realtime support
+### Realtime support
 
 You can also contact our developers directly on our [Discord server](https://discord.gg/SbEt98m).
 
