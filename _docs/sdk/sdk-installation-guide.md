@@ -29,7 +29,7 @@ Next please choose one of the supported Android Frameworks
 
 |    React Native   | Unity |   Cordova |  
 |:--------------:|:--------:|:--------:|
-|  ![React Native Icon](https://img.icons8.com/color/96/000000/react-native.png) | ![Unity Icon](https://img.icons8.com/ios-filled/96/000000/unity.png) | ![Cordova Icon](<img src="https://cordova.apache.org/static/img/cordova_256.png" width="96">) | 
+|  ![React Native Icon](https://img.icons8.com/color/96/000000/react-native.png) | ![Unity Icon](https://img.icons8.com/ios-filled/96/000000/unity.png) | <img src="https://cordova.apache.org/static/img/cordova_256.png" width="96"> | 
 |  [Installation Guide for Android](https://smartlook.github.io/docs/sdk/react-native/#android) | [Installation Guide for Android](https://smartlook.github.io/docs/sdk/unity/#installation-for-android) |
 
 ___
