@@ -36,7 +36,7 @@ For installation details for Android choose a framework:
 ___
 
 
-## Suported iOS Frameworks
+## Supported iOS Frameworks
 
 |    React Native   | Unity | Cocos |   
 |:--------------:|:--------:|:--------:|
