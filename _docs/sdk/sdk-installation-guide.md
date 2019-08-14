@@ -6,17 +6,24 @@ description: "Installation guide for Smartlook SDK.."
 
 # Smartlook SDK Installation Guide
 
+
 To start please select your mobile OS: 
 
 
 |    Android   | iOS |   
 |:--------------:|:--------:|
 |  ![Android Icon](https://img.icons8.com/color/96/000000/android-os.png) | ![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png) | 
-|  [Android Frameworks](../sdk/sdk-installation-guide.md#supported-android-frameworks) | [iOS Frameworks](../sdk-installation-guide.md#suported-ios-frameworks) | 
+|  [Android Frameworks](../sdk/sdk-installation-guide.md#supported-android-frameworks) | [iOS Frameworks](../sdk/sdk-installation-guide.md#suported-ios-frameworks) | 
 
-https://github.com/superasperatus/smartlook.github.io/blob/master/
+For general documentation on:
+* Android, [visit here](https://smartlook.github.io/docs/sdk/android/#android)
+* iOS, [visit here](https://smartlook.github.io/docs/sdk/ios/#ios)
+
+
 
 ## Supported Android Frameworks 
+
+Next please choose one of the supported Android Frameworks
 
 ## Suported iOS Frameworks
 
