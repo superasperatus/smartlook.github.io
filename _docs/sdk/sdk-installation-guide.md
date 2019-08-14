@@ -36,6 +36,14 @@ You can also contact our developers directly on our [Discord server](https://dis
 
 ___
 
+## Android Native Installation & Supported Frameworks
+
+|    Android   |  
+|:--------------:|
+|  [![Android Icon](https://img.icons8.com/color/96/000000/android-os.png)](https://smartlook.github.io/docs/sdk/android/#installation)   
+|  [Android Native Installation](https://smartlook.github.io/docs/sdk/android/#installation) 
+
+
 ## Supported Android Frameworks 
 
 For installation details for Android choose a framework: 
@@ -49,6 +57,12 @@ For installation details for Android choose a framework:
 
 ___
 
+## iOS Native Installation & Supported Frameworks
+
+|    iOS   |  
+|:--------------:|
+| [![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png)](https://smartlook.github.io/docs/sdk/ios/#installation)
+| [iOS Native Installation](https://smartlook.github.io/docs/sdk/ios/#installation) 
 
 ## Supported iOS Frameworks
 
