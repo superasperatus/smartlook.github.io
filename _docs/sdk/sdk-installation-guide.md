@@ -12,7 +12,7 @@ To start please select your mobile OS:
 |    Android   | iOS |   
 |:--------------:|:--------:|
 |  ![Android Icon](https://img.icons8.com/color/96/000000/android-os.png) | ![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png) | 
-|  [Android Frameworks](link) | [iOS Frameworks](link) | 
+|  [Android Frameworks](sdk/sdk-installation-guide.md#supported-android-frameworks) | [iOS Frameworks](/sdk-installation-guide.md#suported-ios-frameworks) | 
 
 
 
