@@ -25,12 +25,13 @@ ___
 
 ## Supported Android Frameworks 
 
-Next please choose one of the supported Android Frameworks
+For installation details for Android choose a framework: 
 
 |    React Native   | Unity |   Cordova |  
 |:--------------:|:--------:|:--------:|
 |  ![React Native Icon](https://img.icons8.com/color/96/000000/react-native.png) | ![Unity Icon](https://img.icons8.com/ios-filled/96/000000/unity.png) | <img src="https://cordova.apache.org/static/img/cordova_256.png" width="96"> | 
-|  [Installation Guide for Android](https://smartlook.github.io/docs/sdk/react-native/#android) | [Installation Guide for Android](https://smartlook.github.io/docs/sdk/unity/#installation-for-android) |
+|  [Installation Guide](https://smartlook.github.io/docs/sdk/react-native/#android) | [Installation Guide](https://smartlook.github.io/docs/sdk/unity/#installation-for-android) | [Installation Guide](https://smartlook.github.io/docs/sdk/cordova-android/#installation)
+
 
 ___
 
@@ -40,7 +41,7 @@ ___
 |    React Native   |  |   
 |:--------------:|:--------:|
 |  ![React Native Icon](https://img.icons8.com/color/96/000000/react-native.png) | ![Unity Icon](https://img.icons8.com/ios-filled/96/000000/unity.png) 
-|  [Installation Guide for iOS](https://smartlook.github.io/docs/sdk/react-native/#ios) | [Installation Guide for iOS](https://smartlook.github.io/docs/sdk/unity/#installation-for-ios) |
+|  [Installation Guide](https://smartlook.github.io/docs/sdk/react-native/#ios) | [Installation Guide](https://smartlook.github.io/docs/sdk/unity/#installation-for-ios) |
 
 
 
