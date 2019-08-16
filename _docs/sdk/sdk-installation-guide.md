@@ -44,6 +44,7 @@ ___
 |:--------------:|
 |  [![Android Icon](https://img.icons8.com/color/96/000000/android-os.png)](https://smartlook.github.io/docs/sdk/android/#installation)   
 |  [Android Native Installation](https://smartlook.github.io/docs/sdk/android/#installation) 
+|  [Android SDK Changelog](https://github.com/smartlook/smartlook-android-sdk)
 
 
 ## Supported Frameworks for Android
@@ -65,6 +66,7 @@ ___
 |:--------------:|
 | [![iOS Icon](https://img.icons8.com/ios/99/000000/ios-logo.png)](https://smartlook.github.io/docs/sdk/ios/#installation)
 | [iOS Native Installation](https://smartlook.github.io/docs/sdk/ios/#installation) 
+| [iOS SDK Changelog](https://github.com/smartlook/smartlook-ios-sdk) 
 
 ## Supported Frameworks for iOS
 
